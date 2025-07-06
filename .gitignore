@@ -1,0 +1,14 @@
+*.out
+
+# Exclude the executable in particular
+net_client
+
+# Exclude the build folder
+build/
+
+# Exclude the .cache/ folder
+.cache/
+
+#Exclude the cmake-build-debug and cmake-build-release folders
+cmake-build-debug
+cmake-build-release

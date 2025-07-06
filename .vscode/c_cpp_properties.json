@@ -4,7 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/home/amelia/github/rpg_chat/",
+                "/home/amelia/github/rpg_chat/include/",
                 "/usr/include/boost",
                 "/home/amelia/boost_asio_1_30_2/boost/"
             ],
